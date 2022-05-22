@@ -5,10 +5,10 @@
 
 <p> El motivo del proyecto es para el desarrollo de habilidades dentro del framework Laravel, esto aplicado a nuestro proyecto que trata sobre la venta de cursos en linea </p>
 
-<p> Integrantes </p>
+<h3> Integrantes </h3>
 <p> Ramirez Alondra. </p>
 
-<h1> Mercado Oswaldo. </h1>
+<p> Mercado Oswaldo. </p>
 
 <h3> Instrucciones de Instalacion </h3>
 
