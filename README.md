@@ -5,9 +5,14 @@
 
 <p> El motivo del proyecto es para el desarrollo de habilidades dentro del framework Laravel, esto aplicado a nuestro proyecto que trata sobre la venta de cursos en linea </p>
 
+<h3> Integrantes </h3>
+<h1> Ramirez Alondra. </h1>
+
+<h1> Mercado Oswaldo. </h1>
+
 <h3> Instrucciones de Instalacion </h3>
 
-<p>Primero clonaremos el repositorio con el comando: git clone https://github.com/oswaldomercado26/proyectoProgramacion.git </p>
+<p>Primero clonaremos el repositorio con el comando: git clone </p>
 <p>Despues nos dirigiremos a la carpeta que se creo con el proyecto e instalaremos el composer con el comando: composer install</p>
 <p>Una vez terminado el ultimo paso procederemos a ejecutar la instalacion de npm con el comando: npm install</p>
 <p>Tambien ejecutaremos los siguientes comandos uno a la vez: npm install npm, npm install node y npm run dev</p>
